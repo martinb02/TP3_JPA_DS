@@ -21,7 +21,7 @@ public class Main {
                     .numero(742)
                     .build();
 
-            // Crear un cliente
+            // Crear un cliente.
             Cliente cliente = Cliente.builder()
                     .nombre("Martin")
                     .apellido("Gomez")
