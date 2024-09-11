@@ -109,3 +109,4 @@ El archivo `persistence.xml` en `src/main/resources/META-INF/` debe configurarse
 3. Navega al directorio del proyecto y ejecuta el siguiente comando para compilar y ejecutar el proyecto:
   mvn clean install
 4. Puedes ejecutar el archivo Main directamente desde tu IDE o con Maven.
+Le hice los commits con otro usuario desde intelliJ por eso aparece los contributors
